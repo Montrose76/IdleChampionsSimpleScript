@@ -822,7 +822,9 @@ Loop_GemRuns()
 		if (FindFirstMob())
 		{			
 			sleep, 100			
-			Send "q"
+			Send, %gFormation%
+			sleep, 100
+			Send, %gFormation% ; Send twice, just in case.
 		}
 		else
 		{
