@@ -10,7 +10,7 @@ After that, you should be good to go. End the current adventure to return to the
 file to load it. Press F2 to begin the farming script.
 
 See below for requirements, known issues, and hot keys.
-
+```
 ;  ------ READ THIS SECTION ----- READ THIS SECTION ----- READ THIS SECTION ----- READ THIS SECTION ----- READ THIS SECTION ------     ;
 ;                                                                                                                                      ;
 ;     REQUIREMENTS                                                                                                                     ;
@@ -50,3 +50,4 @@ See below for requirements, known issues, and hot keys.
 ;    DOWN    : Decrease the Target Level by 10                                                                                         ;
 ;    Q/W/E    : Temporarily use the Q/W/E formation until the next script reload                                                       ;
 ;--------------------------------------------------------------------------------------------------------------------------------------;
+```
