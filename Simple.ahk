@@ -881,7 +881,7 @@ Loop_GemRuns()
 	global oMobName := ""
 	FindFirstMob()
 	{
-		if (!gMobName)
+		if (!oMobName)
 		{
 			oMobName := {}
 			oMobName.StartX := mob_area_L
